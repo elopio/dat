@@ -58,7 +58,7 @@
   },
   "devDependencies": {
     "dependency-check": "^2.8.0",
-    "hypercore": "^6.5.0",
+    "hypercore": "^6.10.1",
     "hyperdiscovery": "^6.0.1",
     "mkdirp": "^0.5.1",
     "pkg": "^4.2.2",
